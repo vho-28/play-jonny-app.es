@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bono Playjonny: guía completa y códigos sin depósito on Play-jonny-app</title>
-    <link>http://localhost:1313/bonus/</link>
+    <link>https://play-jonny-app.es/bonus/</link>
     <description>Recent content in Bono Playjonny: guía completa y códigos sin depósito on Play-jonny-app</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/bonus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://play-jonny-app.es/bonus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
